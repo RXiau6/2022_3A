@@ -2,7 +2,9 @@
 This is a repo to place 系統分析與設計's homework
 
 ## Introduction
-
+- Class: 資管三甲
+- Group of class: 3B-Group.10
+- [Gorup project's github](https://github.com/C109118206/group10)
 - Name: ZongXinag-Hsu 徐綜祥
 - Birth: 2002/03/17
 - Study in National Kaohsiung University of Science and Technology(NKUST) Dept. of Information Management 
