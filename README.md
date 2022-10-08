@@ -1,3 +1,4 @@
+[TOC]
 # 2022_3A
 This is a repo to place 系統分析與設計's homework
 
@@ -30,6 +31,6 @@ System Topology Design
 
 ---
 
-- [x] First week homework
+- [x] [First week homework](https://github.com/RXiau6/2022_3A/blob/main/hw2.md)
 - [ ] Second week class record
 - [ ] Third week class record
