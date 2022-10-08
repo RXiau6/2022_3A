@@ -1,7 +1,7 @@
 # hw2
 
 (1)
-![PERT](PERT.png)
+![PERT](PERT_CPM.png)
 
 (2)
 ```mermaid
